@@ -4,6 +4,17 @@
 
 The **Smart Prescription Medicine Vending Machine (SPMVM)** is an innovative system designed to automate the dispensing of prescription medications. The machine accepts inputs through a manual graphical user interface (GUI), a web-based system via QR code scanning, and voice commands. By integrating advanced technologies such as image processing, voice recognition, and continuous servo motor control, this system ensures accurate and efficient dispensing of medicines. The project aims to improve the accessibility, accuracy, and user-friendliness of medication dispensing.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/ff997168-4c95-4057-9401-9535effec5bc)
+
+![image](https://github.com/user-attachments/assets/f85d1d2b-553c-4bab-ad9c-67b0c7545b40)
+
+![image](https://github.com/user-attachments/assets/46891641-ba9c-4eae-8284-2c2135263d10)
+
+![image](https://github.com/user-attachments/assets/83f3c1dc-1b3b-4224-99c3-8fedf1ba9219)
+
+![image](https://github.com/user-attachments/assets/a592e287-3b12-4f2d-a916-77c264c7213b)
 
 ## Features
 
